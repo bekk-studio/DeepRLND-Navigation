@@ -59,10 +59,10 @@ Then, place the file in the `p1_navigation/` folder in the DRLND GitHub reposito
 
 ## Implementation
 
-Project has been reviewed and validated.
+Project has been reviewed and validate in december 2018.
 [see Report](./Report.html)
 
-To perform it, I implement a **DQN Network** with several improvements:
+Project has been solved by a **DQN Network** with several improvements:
 - soft update method
 - Double DQN
 - Prioritized Experience Replay
@@ -73,11 +73,11 @@ To perform it, I implement a **DQN Network** with several improvements:
 
 
 ### Sources
-*[Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
-*[Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
-*[Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
-*[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)
-*[Thomas Simoni Blog](https://medium.freecodecamp.org/improvements-in-deep-q-learning-dueling-double-dqn-prioritized-experience-replay-and-fixed-58b130cc5682)
+* [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+* [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
+* [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
+* [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)
+* [Thomas Simoni Blog](https://medium.freecodecamp.org/improvements-in-deep-q-learning-dueling-double-dqn-prioritized-experience-replay-and-fixed-58b130cc5682)
 
 
 
